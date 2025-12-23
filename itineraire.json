@@ -1,0 +1,139 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Échappée Nordique : Sérénité aux Îles Féroé",
+  "budget_total": "1150 €/pers (estimation)",
+  "duree": "4 jours",
+  "temps_vol": "5h30 (depuis Paris, France)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas Féroïens",
+      "legende": "Après un vol pittoresque, atterrissez sur l'île de Vágar, porte d'entrée de cet archipel mystérieux. Prenez le temps de vous installer et de vous imprégner de l'atmosphère unique, entre falaises abruptes et villages colorés. Une première balade douce vous attend pour délier les jambes et admirer les paysages côtiers.",
+      "lieu": "Vágar & Tórshavn",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Vágar (FAE)</strong>: Récupérez votre voiture de location, indispensable pour explorer les îles.",
+        "<strong>🚗 Route panoramique vers Tórshavn</strong>: Traversez les paysages verdoyants de Vágar et Streymoy, en admirant les vues sur les fjords et les petits villages.",
+        "<strong>🛏️ Installation à l'hôtel à Tórshavn</strong>: Posez vos valises dans la charmante capitale, connue pour ses maisons en bois et son port animé.",
+        "<strong>🚶‍♂️ Balade relaxante dans Tinganes</strong>: Explorez le quartier historique de Tórshavn, avec ses bâtiments en bois recouverts d'herbe et son atmosphère paisible."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "La location de voiture est essentielle aux Féroé. Réservez-la bien à l'avance, surtout en haute saison."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Les tunnels sous-marins sont payants. Un pass peut être plus économique si vous en empruntez plusieurs."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Merveilles Naturelles de Vágar",
+      "legende": "Aujourd'hui, l'île de Vágar dévoile ses trésors naturels emblématiques. Entre cascades majestueuses et lacs suspendus, la journée sera rythmée par des panoramas à couper le souffle et des balades douces, parfaites pour se ressourcer au cœur d'une nature préservée. Préparez votre appareil photo !",
+      "lieu": "Vágar",
+      "activites": [
+        "<strong>💧 Visite de Gásadalur et la cascade de Múlafossur</strong>: Admirez l'une des vues les plus iconiques des Féroé, où une cascade se jette directement dans l'océan. Une courte marche facile mène au point de vue.",
+        "<strong>🚶‍♀️ Randonnée douce au lac Sørvágsvatn (ou Leitisvatn)</strong>: Découvrez le \"lac suspendu\" au-dessus de l'océan. La balade est relativement plate et offre des vues spectaculaires sur les falaises de Trælanípa.",
+        "<strong>🏘️ Exploration du village de Bøur</strong>: Flânez dans ce charmant village aux toits d'herbe, offrant une vue imprenable sur l'îlot de Tindhólmur et les falaises."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🥾",
+          "titre": "Équipement",
+          "texte": "Prévoyez des chaussures de marche imperméables et des vêtements superposables, la météo change vite."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "Le matin offre souvent une meilleure lumière pour Múlafossur, mais l'après-midi est aussi magnifique."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛰️",
+      "titre": "Charme des Îles du Nord et Eysturoy",
+      "legende": "Partez à la découverte des îles du Nord, accessibles par des tunnels sous-marins, pour une immersion dans des paysages dramatiques et des villages isolés. L'après-midi sera consacrée à l'île d'Eysturoy, avec ses formations rocheuses légendaires et ses vues côtières apaisantes. Une journée riche en découvertes et en sérénité.",
+      "lieu": "Eysturoy & Îles du Nord (Borðoy)",
+      "activites": [
+        "<strong>🚗 Route vers les îles du Nord (Borðoy)</strong>: Traversez le tunnel sous-marin pour atteindre Klaksvík, la deuxième plus grande ville des Féroé. Profitez de la route côtière.",
+        "<strong>⛪ Visite de Kunoy et ses vues</strong>: Conduisez jusqu'à Kunoy pour admirer les falaises abruptes et les vues sur les îles voisines. Une balade facile le long de la côte est possible.",
+        "<strong>🗿 Admirer Risin og Kellingin</strong>: Sur Eysturoy, observez les célèbres rochers du Géant et de la Sorcière depuis la côte près d'Eiði, des formations rocheuses légendaires.",
+        "<strong>🏘️ Détente à Gjógv</strong>: Visitez ce village pittoresque, niché dans une gorge naturelle. Profitez de l'ambiance calme et de la vue sur le port naturel."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🌬️",
+          "titre": "Météo",
+          "texte": "Le vent peut être fort sur les côtes. Soyez vigilant et habillez-vous chaudement."
+        },
+        {
+          "symbole": "☕",
+          "titre": "Pause",
+          "texte": "Le café de Gjógv est un endroit parfait pour une pause gourmande avec vue."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "👋",
+      "titre": "Derniers Regards et Départ",
+      "legende": "Avant de quitter cet archipel enchanteur, profitez d'une dernière matinée pour explorer Tórshavn ou faire une courte balade panoramique. C'est l'occasion de ramener quelques souvenirs et de savourer les derniers instants de cette aventure nordique. Le retour vers l'aéroport se fera en douceur, avec des images inoubliables plein la tête.",
+      "lieu": "Tórshavn & Vágar",
+      "activites": [
+        "<strong>🛍️ Shopping de souvenirs à Tórshavn</strong>: Flânez dans les boutiques pour trouver des pulls en laine féroïenne, des céramiques ou des produits locaux.",
+        "<strong>🚶‍♀️ Balade au port de Tórshavn</strong>: Profitez de l'ambiance maritime, observez les bateaux de pêche et les maisons colorées.",
+        "<strong>🚗 Retour vers l'aéroport de Vágar (FAE)</strong>: Prévoyez suffisamment de temps pour le trajet et la restitution de la voiture de location.",
+        "<strong>✈️ Vol retour vers Paris</strong>: Emportez avec vous les souvenirs d'une nature sauvage et apaisante."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "L'aéroport de Vágar est petit, mais arrivez 2h avant votre vol pour les formalités."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les pulls en laine féroïenne sont de grande qualité et un excellent souvenir."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "373 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "180 €/pers (location voiture 4j + essence + tunnels, base 2 pers)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "160 €/pers (40 €/jour, repas moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "270 €/pers (3 nuits en hôtel 3*, base 2 pers)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "70 €/pers (musées, petites excursions, accès sites)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Juin et Juillet (jour le plus long)", "symbole": "🌅" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La météo est très changeante. Prévoyez des couches de vêtements, un imperméable et des chaussures de marche robustes et étanches.", "symbole": "🌦️" },
+    { "titre": "La monnaie est la Couronne Danoise (DKK). Les cartes de crédit sont largement acceptées, mais un peu de liquide peut être utile.", "symbole": "💳" },
+    { "titre": "Le permis de conduire français est suffisant. La conduite est à droite. Attention aux moutons sur les routes !", "symbole": "🐑" },
+    { "titre": "Le réseau mobile est bon. Le Wi-Fi est disponible dans la plupart des hébergements et cafés.", "symbole": "📶" },
+    { "titre": "Respectez la nature. Ne laissez aucun déchet et restez sur les sentiers balisés pour protéger la flore fragile.", "symbole": "🌿" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-FAE/2025-06-10/2025-06-13", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Visit Faroe Islands", "url": "https://visitfaroeislands.com/", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Location de voiture aux Féroé", "url": "https://www.rentyourcar.fo/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Féroé", "url": "https://www.yr.no/en/forecast/daily-table/1-261000/Faroe%20Islands/V%C3%A1gar", "symbole": "🌤️" }
+  ]
+}
